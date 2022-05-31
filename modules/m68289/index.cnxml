@@ -1,0 +1,593 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Solving Through the Geometry of the Double Slit Problem</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68289</md:content-id>
+  <md:title>Solving Through the Geometry of the Double Slit Problem</md:title>
+  <md:abstract/>
+  <md:uuid>d12cee60-b42b-4cdf-a288-cc2ff0af8d7a</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm535881968"><title>About What You Are Reading</title>What follows is an explanation of this geometry by a fellow student, Catherine Trewhella, in her own words. I have even included the figures exactly as she drew them, simply copying them to white paper in ink for visual clarity.</para><exercise id="eip-321"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">Trying to write such textbook sections is a great way to enhance your understanding of a piece of material about which you are confused, and I would encourage you to try this technique as you study!</para></problem></exercise><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm666277280"><title>The Problem</title>A double slit has <m:math display="block"><m:semantics><m:mrow><m:mn>5</m:mn><m:mi mathvariant="italic">μm</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">5 μm</m:annotation></m:semantics></m:math> between the slits and is placed <m:math display="block"><m:semantics><m:mrow><m:mn>20</m:mn><m:mi>m</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">20 m</m:annotation></m:semantics></m:math> from the screen. If I am looking at a point <m:math display="block"><m:semantics><m:mrow><m:mn>11.54</m:mn><m:mi>°</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">11.54°</m:annotation></m:semantics></m:math> above the center-line, what is the difference in optical path length if <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>λ</m:mi><m:mo stretchy="false">−</m:mo><m:mn>500</m:mn></m:mrow><m:mi mathvariant="italic">nm</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">λ-500 nm</m:annotation></m:semantics></m:math> ?</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm256066896"><title>Solving it: Getting Started</title>Convert the numbers given into the correct units &amp; draw out a picture of a basic double slit problem: Distance between slits <m:math display="block"><m:semantics><m:mi>d</m:mi><m:annotation encoding="StarMath 5.0">d</m:annotation></m:semantics></m:math>:</para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-679"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mi>d</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mrow>
+                <m:mo fence="true" stretchy="true">(</m:mo>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mi mathvariant="italic">μm</m:mi>
+                  </m:mrow>
+                </m:mrow>
+                <m:mo fence="true" stretchy="true">)</m:mo>
+              </m:mrow>
+            </m:mrow>
+            <m:mi>∙</m:mi>
+            <m:mrow>
+              <m:mrow>
+                <m:mo fence="true" stretchy="true">(</m:mo>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mi mathvariant="italic">μm</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mi>×</m:mi>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+                <m:mo fence="true" stretchy="true">)</m:mo>
+              </m:mrow>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>5</m:mn>
+            </m:mrow>
+            <m:mi>×</m:mi>
+            <m:msup>
+              <m:mn>10</m:mn>
+              <m:mrow>
+                <m:mo stretchy="false">−</m:mo>
+                <m:mn>6</m:mn>
+              </m:mrow>
+            </m:msup>
+            <m:mi>m</m:mi>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">d= left (5 μm right )  ∙ left ({1 μm} over {1× {10} ^ {-6}  m} right ) =5× {10} ^ {-6}  m</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para id="import-auto-idm257100816">Distance from screen: <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mn>20</m:mn></m:mrow><m:mi>m</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">y=20 m</m:annotation></m:semantics></m:math></para>
+    <para id="import-auto-idm478545824">Wavelength <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>λ</m:mi><m:annotation encoding="StarMath 5.0">λ</m:annotation></m:semantics></m:math>:</para>
+    <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-118"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mi>λ</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mrow>
+                <m:mo fence="true" stretchy="true">(</m:mo>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mn>00</m:mn>
+                    <m:mi mathvariant="italic">μm</m:mi>
+                  </m:mrow>
+                </m:mrow>
+                <m:mo fence="true" stretchy="true">)</m:mo>
+              </m:mrow>
+            </m:mrow>
+            <m:mi>∙</m:mi>
+            <m:mrow>
+              <m:mrow>
+                <m:mo fence="true" stretchy="true">(</m:mo>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mi mathvariant="italic">μm</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mi>×</m:mi>
+                      <m:msup>
+                        <m:mn>10</m:mn>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mi>m</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+                <m:mo fence="true" stretchy="true">)</m:mo>
+              </m:mrow>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>5</m:mn>
+            </m:mrow>
+            <m:mi>×</m:mi>
+            <m:msup>
+              <m:mn>10</m:mn>
+              <m:mrow>
+                <m:mo stretchy="false">−</m:mo>
+                <m:mn>7</m:mn>
+              </m:mrow>
+            </m:msup>
+            <m:mi>m</m:mi>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">λ = left (5 00  μm right )  ∙ left ({1 μm} over {1× {10} ^ {-9}  m} right ) =5× {10} ^ {-7}  m</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para id="import-auto-idm458900016">We then sketch a figure of the setup, note it does not need to be to scale!</para>
+    <figure id="import-auto-idm275901792">
+      <media id="import-auto-idm518897536" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-f3d2.png" height="472" width="624"/>
+      </media>
+    </figure>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm496546128"><title>The Approach</title>The approach to solving this problem is breaking down the physics behind <m:math display="block"><m:semantics><m:mrow><m:mi>δ</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">δ=  {l} rsub {1} - {l} rsub {2}</m:annotation></m:semantics></m:math>. By finding the distance, in meters, for  <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math> and  <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> using geometry, we can convert them to wavelengths, and plug them into the equation.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm673288784"><title>Drawing <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math> and  <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math></title>Draw in <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math> by adding a line in red that connects the upper slit to the screen, making a triangle. The angle does not need to be perfectly to scale! This represents the light travelling from the top slit to the point on our screen. The ray <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math> makes an angle <m:math display="block"><m:semantics><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{θ} rsub {1}</m:annotation></m:semantics></m:math>.
+
+</para><figure id="import-auto-idm268121040">
+      <media id="import-auto-idm432206672" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-342a.png" height="472" width="624"/>
+      </media>
+    </figure>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm714228288">Draw in <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> by adding a line in blue that connects the bottom slit to the same point on the screen, making a second triangle. The angle again does not need to be perfectly to scale! This represents the light travelling from the bottom slit to the point on our screen. The ray <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> makes an angle <m:math display="block"><m:semantics><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{θ} rsub {2}</m:annotation></m:semantics></m:math>.</para><figure id="import-auto-idm427348640">
+      <media id="import-auto-idm427313584" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-771d.png" height="479" width="624"/>
+      </media>
+    </figure>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm478948192">The all of these angles (<m:math display="block"><m:semantics><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{θ} rsub {1}</m:annotation></m:semantics></m:math>, <m:math display="block"><m:semantics><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{θ} rsub {2}</m:annotation></m:semantics></m:math>, and <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mn>11.54</m:mn></m:mrow><m:mi>°</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">θ=11.54°</m:annotation></m:semantics></m:math>) are essentially the same. On a micro scale, the differences in the angle matter, however the screen can be moved until the <m:math display="block"><m:semantics><m:mi>θ</m:mi><m:annotation encoding="StarMath 5.0">θ</m:annotation></m:semantics></m:math> ’s become equivalent. It is similar to seeing leaves on a tree up close but moving farther back all of the leaves look the same. So, we take <m:math display="block"><m:semantics><m:mrow><m:msub><m:mi>θ</m:mi><m:mn>1</m:mn></m:msub><m:mi>≈</m:mi><m:msub><m:mi>θ</m:mi><m:mn>2</m:mn></m:msub><m:mi>≈</m:mi><m:mi>θ</m:mi><m:mi>≈</m:mi><m:mn>11.54</m:mn><m:mi>°</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{θ} rsub {1} ≈ {θ} rsub {2} ≈θ≈11.54°</m:annotation></m:semantics></m:math>.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm279162736"><title>Solving for <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> (red triangle)</title>Since <m:math display="block"><m:semantics><m:mrow><m:mi>l</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>x</m:mi><m:mi>λ</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">l=  {x} over {λ}</m:annotation></m:semantics></m:math>, we must next solve for the length of  <m:math display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {1}</m:annotation></m:semantics></m:math>, in meters using our understanding of geometry for right triangles, or as many remember it “SOH-CAH-TOA”. Since we are looking for the value of our hypotenuse, and only have the angle and the adjacent side, from the slit to the screen, we need to use the equation for cosine:</para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-326"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi mathvariant="italic">cosθ</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mi mathvariant="italic">adj</m:mi>
+              <m:mi mathvariant="italic">hyp</m:mi>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">cosθ=  {adj} over {hyp}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-924"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi mathvariant="italic">hyp</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mi mathvariant="italic">adj</m:mi>
+              <m:mrow>
+                <m:mi>c</m:mi>
+                <m:mi mathvariant="italic">osθ</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">hyp =  {adj} over {c osθ}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-652"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>20</m:mn>
+                <m:mi>m</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>cos</m:mi>
+                <m:mi>⁡</m:mi>
+                <m:mrow>
+                  <m:mo fence="true" stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>11.54</m:mn>
+                      <m:mi>°</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mo fence="true" stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{x} rsub {1} =  {20 m} over {cos⁡ (11.54°)}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-996"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mi>x</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>20.412415</m:mn>
+            </m:mrow>
+            <m:mi>m</m:mi>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">x=20.412415 m</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm671706496">However, since this is <m:math display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {1}</m:annotation></m:semantics></m:math> in meters and we want <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math>, we must pull from previous units and convert the distance in meters to the number of wavelengths, similar to any other conversion.</para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-529"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>l</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:msub>
+                <m:mi>x</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>20.412415</m:mn>
+                <m:mi>m</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>5</m:mn>
+                <m:mi>×</m:mi>
+                <m:msup>
+                  <m:mn>10</m:mn>
+                  <m:mrow>
+                    <m:mo stretchy="false">−</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                </m:msup>
+                <m:mi>m</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mn>40824829</m:mn>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{l} rsub {1} = {{x} rsub {1}} over {λ} = {20.412415 m} over {5× {10} ^ {-7 } m} =40824829</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm443988800">This <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math> is unitless because it is the number of wavelengths that occur between the two points, not the actual distance.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm663976224"><title>Solving for <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> (blue triangle)</title>Since all angles are <m:math display="block"><m:semantics><m:mrow><m:mn>11.54</m:mn><m:mi>°</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">11.54°</m:annotation></m:semantics></m:math> more geometry must be used to solve for <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> by finding the difference between <m:math display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {1}</m:annotation></m:semantics></m:math> and <m:math display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {2}</m:annotation></m:semantics></m:math> in meters, and adding it to <m:math display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {1}</m:annotation></m:semantics></m:math> in meters before converting to the number of wavelengths. Start this process by drawing another line starting at the corner of the top slit and hitting at <m:math display="block"><m:semantics><m:mrow><m:mn>90</m:mn><m:mi>°</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">90 °</m:annotation></m:semantics></m:math> creating a third right triangle. The angle made is also equivalent to <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi><m:mo stretchy="false">=</m:mo><m:mn>11.54</m:mn></m:mrow><m:mi>°</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">θ=11.54°</m:annotation></m:semantics></m:math>.</para><figure id="import-auto-idm261308752">
+      <media id="import-auto-idm261308624" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-5698.png" height="484" width="624"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm213794912">The new triangle can be turned on its side, to better show that it is a right triangle.</para>
+    <figure id="import-auto-idm643239328">
+      <media id="import-auto-idm643239200" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-cdd6.png" height="471" width="624"/>
+      </media>
+    </figure>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm269083168">The difference in meters between <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math> and <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> will be identified as <m:math display="block"><m:semantics><m:mrow><m:mi>∆</m:mi><m:mi>x</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">∆x</m:annotation></m:semantics></m:math>, and can be solved using the equation for sine, as we have values for the angle and hypotenuse.</para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-253"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi mathvariant="italic">sinθ</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mi mathvariant="italic">opp</m:mi>
+              <m:mi mathvariant="italic">hyp</m:mi>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">sinθ= {opp} over {hyp}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-826"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mi mathvariant="italic">opp</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mi mathvariant="italic">hyp</m:mi>
+            </m:mrow>
+            <m:mi>∙</m:mi>
+            <m:mi mathvariant="italic">sinθ</m:mi>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">opp =hyp∙sinθ</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-6"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mi>x</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mrow>
+                <m:mo fence="true" stretchy="false">(</m:mo>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mi>×</m:mi>
+                    <m:msup>
+                      <m:mn>10</m:mn>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:mrow>
+                <m:mo fence="true" stretchy="false">)</m:mo>
+              </m:mrow>
+            </m:mrow>
+            <m:mi>∙</m:mi>
+            <m:mi>sin</m:mi>
+            <m:mi>⁡</m:mi>
+            <m:mrow>
+              <m:mo fence="true" stretchy="false">(</m:mo>
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>11.54</m:mn>
+                  <m:mi>°</m:mi>
+                </m:mrow>
+              </m:mrow>
+              <m:mo fence="true" stretchy="false">)</m:mo>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">x=(5× {10} ^ {-6}  m)∙ sin⁡ (11.54°)</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-289"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>∆</m:mi>
+            <m:mrow>
+              <m:mi>x</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>0.000001</m:mn>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>1</m:mn>
+            </m:mrow>
+            <m:mi>×</m:mi>
+            <m:msup>
+              <m:mn>10</m:mn>
+              <m:mrow>
+                <m:mo stretchy="false">−</m:mo>
+                <m:mn>6</m:mn>
+              </m:mrow>
+            </m:msup>
+            <m:mi>m</m:mi>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">∆x=0.000001=1× {10} ^ {-6}  m</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para id="import-auto-idm696483168">Now to solve for the actual distance <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {2}</m:annotation></m:semantics></m:math> in meters, we must add this <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mrow><m:mi>∆</m:mi><m:mi>x</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">∆x</m:annotation></m:semantics></m:math> value to <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {1}</m:annotation></m:semantics></m:math>.</para>
+    <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-847"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:msub>
+                <m:mi>x</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mrow>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo stretchy="false">+</m:mo>
+                <m:mi>∆</m:mi>
+              </m:mrow>
+            </m:mrow>
+            <m:mi>x</m:mi>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{x} rsub {2} =  {x} rsub {1} +∆x</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-455"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mrow>
+              <m:mrow>
+                <m:mo fence="true" stretchy="true">(</m:mo>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>20.412415</m:mn>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:mrow>
+                <m:mo fence="true" stretchy="true">)</m:mo>
+              </m:mrow>
+              <m:mo stretchy="false">+</m:mo>
+              <m:mrow>
+                <m:mo fence="true" stretchy="false">(</m:mo>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>0.000001</m:mn>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:mrow>
+                <m:mo fence="true" stretchy="false">)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{x} rsub {2} = left (20.412415 m right ) +(0.000001 m)</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-163"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:msub>
+                <m:mi>x</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>20.412416</m:mn>
+            </m:mrow>
+            <m:mi>m</m:mi>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{x} rsub {2} =20.412416 m</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para id="import-auto-idm466952112">And now convert this <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{x} rsub {1}</m:annotation></m:semantics></m:math> to the number of wavelengths to get <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math>:</para>
+    <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-616"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:msub>
+                <m:mi>l</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+                <m:mi>λ</m:mi>
+              </m:mfrac>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mn>20.412416</m:mn>
+                  <m:mi>m</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mi>×</m:mi>
+                  <m:msup>
+                    <m:mn>10</m:mn>
+                    <m:mrow>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mi>m</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mn>408248</m:mn>
+            </m:mrow>
+            <m:mn>31</m:mn>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{l} rsub {2} = {{x} rsub {2}} over {λ} = {20.412416  m} over {5× {10} ^ {-7 } m} =408248 31</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm259947200"><title>Finally look at how these two rays will interfere</title>Now we have both the <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {1}</m:annotation></m:semantics></m:math> and <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math> values and can solve for <m:math display="block"><m:semantics><m:mi>δ</m:mi><m:annotation encoding="StarMath 5.0">δ</m:annotation></m:semantics></m:math>.</para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-100"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>δ</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mrow>
+              <m:msub>
+                <m:mi>l</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo stretchy="false">−</m:mo>
+              <m:msub>
+                <m:mi>l</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">δ=  {l} rsub {1} - {l} rsub {2}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-259"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>δ</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mrow>
+              <m:mn>40824829</m:mn>
+              <m:mo stretchy="false">−</m:mo>
+              <m:mn>40824831</m:mn>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">δ=40824829-40824831</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-613"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>δ</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mrow>
+              <m:mo stretchy="false">−</m:mo>
+              <m:mn>2</m:mn>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">δ= -2</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para id="import-auto-idm652306560">Meaning that this point will be a spot of constructive interference (a bright spot!).</para>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm652306304">Now that you understand the third triangle that was used to find <m:math display="block"><m:semantics><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub><m:annotation encoding="StarMath 5.0">{l} rsub {2}</m:annotation></m:semantics></m:math>, you can skip the last section of steps we did, and just solve for the number of wavelengths within <m:math display="block"><m:semantics><m:mrow><m:mi>∆</m:mi><m:mi>x</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">∆x</m:annotation></m:semantics></m:math> to check for errors, as it should be the same as <m:math display="block"><m:semantics><m:mrow><m:msub><m:mi>l</m:mi><m:mn>1</m:mn></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>l</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:annotation encoding="StarMath 5.0">{l} rsub {1} - {l} rsub {2}</m:annotation></m:semantics></m:math>. This is the principle behind <m:math display="block"><m:semantics><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mi>d</m:mi><m:mi>.</m:mi><m:mi>s</m:mi><m:mi>.</m:mi></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mi mathvariant="italic">dsinθ</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{x} rsub {d.s.} =dsinθ</m:annotation></m:semantics></m:math> on your equation sheet.</para><section id="eip-885"><title>Conceptual Questions</title><exercise id="fs-id2032212" type="conceptual-questions"><problem id="fs-id982366">
+    <para id="import-auto-id3090369">Speakers in stereo systems have two color-coded terminals to indicate how to hook up the wires. If the wires are reversed, the speaker moves in a direction opposite that of a properly connected speaker. Explain why it is important to have both speakers connected the same way.</para>
+    </problem></exercise>
+    </section><section xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-458"><title>title</title><exercise id="fs-id1339459" type="problems-exercises"><problem id="fs-id2000866">  
+      <para id="import-auto-id3355376">A car has two horns, one emitting a frequency of 199 Hz and the other emitting a frequency of 203 Hz. What beat frequency do they produce?</para>
+    </problem>
+<solution id="fs-id2671049">
+    <para id="import-auto-id1447098"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo stretchy="false">=</m:mo>
+              
+                    <m:mtext>4 Hz</m:mtext>
+                    
+                
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{f= {underline  {"4 Hz"}} } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </para></solution>
+    </exercise>
+    
+    <exercise id="fs-id3080578" type="problems-exercises"><problem id="fs-id1320313">  
+      <para id="import-auto-id1229369">The middle-C hammer of a piano hits two strings, producing beats of 1.50 Hz. One of the strings is tuned to 260.00 Hz. What frequencies could the other string have?</para>
+    </problem></exercise>
+    
+    <exercise id="fs-id1869902" type="problems-exercises"><problem id="fs-id2382828">  
+      <para id="import-auto-id1596055">Two tuning forks having frequencies of 460 and 464 Hz are struck simultaneously. What average frequency will you hear, and what will the beat frequency be?</para>
+    </problem>
+<solution id="fs-id1922372">
+    <para id="import-auto-id3081344">462 Hz,</para>
+    <para id="import-auto-id2445269">4 Hz</para>
+    </solution>
+    </exercise>
+    
+    <exercise id="fs-id3424702" type="problems-exercises"><problem id="fs-id1579413">  
+      <para id="import-auto-id3089569">Twin jet engines on an airplane are producing an average sound frequency of 4100 Hz with a beat frequency of 0.500 Hz. What are their individual frequencies?</para>
+    </problem></exercise>
+    
+    <exercise id="fs-id2953434" type="problems-exercises"><problem id="fs-id2670401">   
+      <para id="import-auto-id3172372">A wave traveling on a Slinky® that is stretched to 4 m takes 2.4 s to travel the length of the Slinky and back again. (a) What is the speed of the wave? (b) Using the same Slinky stretched to the same length, a standing wave is created which consists of three antinodes and four nodes. At what frequency must the Slinky be oscillating?</para>
+    </problem>
+<solution id="fs-id1931004">
+    <para id="import-auto-id2601662">(a) 3.33 m/s
+</para>
+<para id="eip-id1169611916673">(b) 1.25 Hz</para>
+    </solution>
+    </exercise><exercise id="fs-id2437095" type="problems-exercises"><problem id="fs-id2409128">   
+      <para id="import-auto-id3105721">Three adjacent keys on a piano (F, F-sharp, and G) are struck simultaneously, producing frequencies of 349, 370, and 392 Hz. What beat frequencies are produced by this discordant combination?</para>
+    </problem></exercise></section></content>
+</document>

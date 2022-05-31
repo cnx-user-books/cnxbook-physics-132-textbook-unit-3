@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Superposition and Interference</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68276</md:content-id>
+  <md:title>Superposition and Interference</md:title>
+  <md:abstract><list>
+<item>Explain standing waves.</item>
+<item>Describe the mathematical representation of overtones and beat frequency.</item>
+</list></md:abstract>
+  <md:uuid>ce98c089-0167-4d2e-a543-28137928360e</md:uuid>
+</metadata>
+
+<content>
+
+  
+  <exercise id="eip-991"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">The key point of this section is that when two waves add, the resulting wave is a point-by-point addition of the two waves. You will need to do such additions and know the terms constructive and destructive.</para></problem></exercise><figure id="import-auto-id1386289"><media id="import-auto-id1486737" alt="Water surface of a river is shown, with mountains in the background. There are small ripples over the water surface.">
+        <image mime-type="image/png" src="../../media/Figure_17_10_01a.jpg" width="300"/>
+      </media>
+      
+  <caption>These waves result from the superposition of several waves from different sources, producing a complex pattern. (credit: waterborough, Wikimedia Commons)</caption></figure><para id="import-auto-id1420136">Most waves do not look very simple. They look more like the waves in <link target-id="import-auto-id1386289"/> than like the simple water wave considered in <link document="m42248">Waves</link>. (Simple waves may be created by a simple harmonic oscillation, and thus have a sinusoidal shape). Complex waves are more interesting, even beautiful, but they look formidable. Most waves appear complex because they result from several simple waves adding together. Luckily, the rules for adding waves are quite simple.</para><para id="import-auto-id3047262">When two or more waves arrive at the same point, they superimpose themselves on one another. More specifically, the disturbances of waves are superimposed when they come together—a phenomenon called <term id="import-auto-id3047530">superposition</term>. Each disturbance corresponds to a force, and forces add. If the disturbances are along the same line, then the resulting wave is a simple addition of the disturbances of the individual waves—that is, their amplitudes add. <link target-id="import-auto-id3008153"/> and <link target-id="import-auto-id2429185"/> illustrate superposition in two special cases, both of which produce simple results.</para>
+    <para id="import-auto-id2424083"><link target-id="import-auto-id3008153"/> <emphasis effect="bold"/>shows two identical waves that arrive at the same point exactly in phase. The crests of the two waves are precisely aligned, as are the troughs. This superposition produces pure <term id="import-auto-id1409672">constructive interference</term>. Because the disturbances add, pure constructive interference produces a wave that has twice the amplitude of the individual waves, but has the same wavelength.</para>
+    <para id="import-auto-id3385592"><link target-id="import-auto-id2429185"/> shows two identical waves that arrive exactly out of phase—that is, precisely aligned crest to trough—producing pure <term id="import-auto-id3028441">destructive interference</term>. Because the disturbances are in the opposite direction for this superposition, the resulting amplitude is zero for pure destructive interference—the waves completely cancel.</para>
+    
+  
+    <figure id="import-auto-id3008153"><media id="import-auto-id2008782" alt="The graph shows two identical waves that arrive at the same point exactly in phase. The crests of the two waves are precisely aligned, as are the troughs. The amplitude of each wave being X . It produces pure constructive wave. The disturbances add resulting in a new wave with twice the amplitude of the individual waves that is two X but of same wavelength.">
+        <image mime-type="image/jpg" src="../../media/Figure_17_10_02a.jpg" width="325"/>
+      </media>
+      
+    <caption>Pure constructive interference of two identical waves produces one with twice the amplitude, but the same wavelength.</caption></figure><figure id="import-auto-id2429185"><media id="import-auto-id2424169" alt="The graph shows two identical waves that arrive exactly out of phase. The crests of one wave are aligned with the trough of another wave. Each wave has amplitude equal to X. As the disturbances are in the opposite directions, they cancel out each other, resulting in zero amplitude which is shown as the third figure showing a green straight line, that is, the waves cancel each other producing pure destructive interference.">
+        <image mime-type="image/jpg" src="../../media/Figure_17_10_03a.jpg" width="325"/>
+      </media>
+      
+    <caption>Pure destructive interference of two identical waves produces zero amplitude, or complete cancellation.</caption></figure><para id="import-auto-id1177237">While pure constructive and pure destructive interference do occur, they require precisely aligned identical waves. The superposition of most waves produces a combination of constructive and destructive interference and can vary from place to place and time to time. Sound from a stereo, for example, can be loud in one spot and quiet in another. Varying loudness means the sound waves add partially constructively and partially destructively at different locations. A stereo has at least two speakers creating sound waves, and waves can reflect from walls. All these waves superimpose. An example of sounds that vary over time from constructive to destructive is found in the combined whine of airplane jets heard by a stationary passenger. The combined sound can fluctuate up and down in volume as the sound from the two engines varies in time from constructive to destructive. These examples are of waves that are similar.</para>
+    <para id="import-auto-id1376280">An example of the superposition of two dissimilar waves is shown in <link target-id="import-auto-id2979404"/>. Here again, the disturbances add and subtract, producing a more complicated looking wave.</para><figure id="import-auto-id2979404"><media id="import-auto-id2400250" alt="The graph shows two non-identical waves with different frequencies and wavelengths. In the first graph only one crest and one trough of the wave are seen. In the second figure five crests are seen in the same length. When they superimpose, the disturbance add and subtract, producing a more complicated looking wave with highly irregular amplitude and wavelength due to combined effect of constructive and destructive interference.">
+        <image mime-type="image/jpg" src="../../media/Figure_17_10_04a.jpg" width="200"/>
+      </media>
+      
+    <caption>Superposition of non-identical waves exhibits both constructive and destructive interference.</caption></figure><exercise id="fs-id2005960" type="check-understanding"><label/><title>Check Your Understanding</title>
+    
+    <problem id="fs-id1933250"><para id="import-auto-id1995887">Imagine you are holding one end of a jump rope, and your friend holds the other. If your friend holds her end still, you can move your end up and down, creating a transverse wave. If your friend then begins to move her end up and down, generating a wave in the opposite direction, what resultant wave forms would you expect to see in the jump rope?</para></problem>
+<solution id="fs-id1486129" print-placement="here">    <para id="import-auto-id1473011">The rope would alternate between having waves with amplitudes two times the original amplitude and reaching equilibrium with no amplitude at all. The wavelengths will result in both constructive and destructive interference</para></solution>
+</exercise>
+  <exercise id="fs-id2671107" type="check-understanding"><label/><title>Check Your Understanding</title><problem id="fs-id1996919"><para id="import-auto-id3064112">You hook up a stereo system. When you test the system, you notice that in one corner of the room, the sounds seem dull. In another area, the sounds seem excessively loud. Describe how the sound moving about the room could result in these effects.</para></problem>
+<solution id="fs-id2398722" print-placement="here">    <para id="import-auto-id2678938">With multiple speakers putting out sounds into the room, and these sounds bouncing off walls, there is bound to be some wave interference. In the dull areas, the interference is probably mostly destructive. In the louder areas, the interference is probably mostly constructive.</para></solution>
+  </exercise>
+  
+    <note id="eip-696"><label/><title>PhET Explorations: Wave Interference</title>
+<para id="eip-id2942273">Make waves with a dripping faucet, audio speaker, or laser! Add a second source or a pair of slits to create an interference pattern.</para>
+ <figure id="eip-id2746277"><media id="Phet_module_17.10" alt="">
+
+  <image mime-type="image/png" for="online" src="../../media/wave-interference_en.jar" thumbnail="PhET_Icon.png" width="450"/>
+  <image mime-type="image/png" for="pdf" src="../../media/PhET_Icon.png" width="450"/>
+
+   
+</media>
+
+      <caption><link url="wave-interference_en.jar">Wave Interference</link></caption></figure></note><section id="fs-id1412682" class="section-summary"><title>Section Summary</title><list id="fs-id1304434"><item id="import-auto-id2054185">Superposition is the combination of two waves at the same location.</item>
+    <item id="import-auto-id1941066">Constructive interference occurs when two identical waves are superimposed in phase.</item>
+    <item id="import-auto-id3358537">Destructive interference occurs when two identical waves are superimposed exactly out of phase.</item>
+    
+      </list></section></content>
+  <glossary>
+    <definition id="import-auto-id1571187"><term>antinode</term> <meaning id="fs-id2668511">the location of maximum amplitude in standing waves</meaning></definition>
+    <definition id="import-auto-id3456693"><term>beat frequency</term> <meaning id="fs-id3046116">the frequency of the amplitude fluctuations of a wave </meaning></definition>
+    <definition id="import-auto-id2674033"><term>constructive interference</term> <meaning id="fs-id3161924">when two waves arrive at the same point exactly in phase; that is, the crests of the two waves are precisely aligned, as are the troughs</meaning></definition>
+    <definition id="import-auto-id1579457"><term>destructive interference</term> <meaning id="fs-id2383744">when two identical waves arrive at the same point exactly out of phase; that is, precisely aligned crest to trough </meaning></definition>
+    <definition id="import-auto-id2639668"><term>fundamental frequency</term> <meaning id="fs-id2667564">the lowest frequency of a periodic waveform</meaning></definition>
+    <definition id="import-auto-id3305884"><term>nodes</term><meaning id="fs-id1414434">the points where the string does not move; more generally, nodes are where the wave disturbance is zero in a standing wave</meaning></definition>
+    <definition id="import-auto-id2590082"><term>overtones</term> <meaning id="fs-id1361251">multiples of the fundamental frequency of a sound</meaning></definition>
+      <definition id="import-auto-id1405710"><term>superposition</term> <meaning id="fs-id2578434">the phenomenon that occurs when two or more waves arrive at the same point</meaning></definition>
+  </glossary>
+</document>

@@ -1,0 +1,79 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction to the Double Slit Experiment</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68358</md:content-id>
+  <md:title>Introduction to the Double Slit Experiment</md:title>
+  <md:abstract/>
+  <md:uuid>1ada9252-88f6-4934-8f1f-c5194ee5609f</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-889"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as a video on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The link can be found <link url="https://youtu.be/CgKUWBOUhEc" window="new"> here. </link></para></problem></exercise><para id="import-auto-idm471484528">Now we're going to go through the double-slit, we've been talking about this experiment since like day two. Now we're going to talk about why it works. But it's still the same principle that we're talking about, the difference in optical path lengths. You've been seeing this in lab as a laser, pair of slits, and a screen. </para>
+    <exercise id="eip-327"><label/><title><media id="inote23i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote23p"><para id="inote23pp">You've been seeing this in lab as a laser, pair of slits, and a screen.</para></problem></exercise><figure id="import-auto-idm433012000">
+      <media id="import-auto-idm621478016" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-0a80.png" height="202" width="326"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm428923344">Let's go and look at that path difference. We have some of the laser light goes through the top slit, and some of it goes thought the bottom slit. What's the difference? How much further does the bottom travel than the top? That's the question we're looking at, what's the extra distance?</para>
+    <para id="import-auto-idm389583616">Well if we look at it, the bottom one is going to have to go an extra little bit of distance to get to that point because it starts further away. You can see we're still already looking at those differences in path length. We are going to color the two rays red and purple to make it easier to talk, and the green is the extra distance. </para>
+    <para id="import-auto-idm424072064">Now here comes the geometry. The angle <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>θ</m:mi><m:annotation encoding="StarMath 5.0">θ</m:annotation></m:semantics></m:math> is the angle from the center line to the origin. The angle from the center line to the point we're talking about is <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>θ</m:mi><m:annotation encoding="StarMath 5.0">θ</m:annotation></m:semantics></m:math>. There's also an angle for the top array, <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>α</m:mi><m:annotation encoding="StarMath 5.0">α</m:annotation></m:semantics></m:math>. There's also an angle for the bottom array which we shall call <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>β</m:mi><m:annotation encoding="StarMath 5.0">β</m:annotation></m:semantics></m:math>. </para>
+    <figure id="import-auto-idm453988848">
+      <media id="import-auto-idm386963952" alt="">
+        <image mime-type="image/png" src="../../media/Picture 2-2da7.png" height="257" width="218"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm328290224">If you have a look, <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>β</m:mi><m:annotation encoding="StarMath 5.0">β</m:annotation></m:semantics></m:math> is a bigger angle than <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>θ</m:mi><m:annotation encoding="StarMath 5.0">θ</m:annotation></m:semantics></m:math>, and <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>θ</m:mi><m:annotation encoding="StarMath 5.0">θ</m:annotation></m:semantics></m:math> is a bigger angle than <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>α</m:mi><m:annotation encoding="StarMath 5.0">α</m:annotation></m:semantics></m:math>. These angles are different, and <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>β</m:mi><m:annotation encoding="StarMath 5.0">β</m:annotation></m:semantics></m:math> is the biggest </para>
+    <para id="import-auto-idm441795232">Now let's take this screen and move it move it back. </para>
+    <figure id="import-auto-idm313679344">
+      <media id="import-auto-idm462079536" alt="">
+        <image mime-type="image/png" src="../../media/Picture 3-f4fd.png" height="284" width="317"/>
+      </media>
+    </figure>
+    <figure id="import-auto-idm601234368">
+      <media id="import-auto-idm496740000" alt="">
+        <image mime-type="image/png" src="../../media/Picture 4-c7e8.png" height="275" width="364"/>
+      </media>
+    </figure>
+    <figure id="import-auto-idm607762304">
+      <media id="import-auto-idm625323472" alt="">
+        <image mime-type="image/png" src="../../media/Picture 5-9507.png" height="259" width="380"/>
+      </media>
+    </figure>
+    <figure id="import-auto-idm511288608">
+      <media id="import-auto-idm502269008" alt="">
+        <image mime-type="image/png" src="../../media/Picture 6-0030.png" height="247" width="427"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm466008416">As we've moved it back, all the angles get smaller and closer together. They don't all get smaller at the same rate, but <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>β</m:mi><m:annotation encoding="StarMath 5.0">β</m:annotation></m:semantics></m:math>, <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>α</m:mi><m:annotation encoding="StarMath 5.0">α</m:annotation></m:semantics></m:math>, and  <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block"><m:semantics><m:mi>θ</m:mi><m:annotation encoding="StarMath 5.0">θ</m:annotation></m:semantics></m:math> all become very close to the same angle. </para>
+    <figure id="import-auto-idm387521984">
+      <media id="import-auto-idm372528528" alt="">
+        <image mime-type="image/png" src="../../media/Picture 7-6c9a.png" height="233" width="464"/>
+      </media>
+    </figure>
+    <para id="import-auto-idm627755472">Now let's zoom in on just what's going on near the slits. Remember the green line is the extra distance that the purple ray has to travel. </para>
+    <figure id="import-auto-idm407146880">
+      <media id="import-auto-idm507405648" alt="">
+        <image mime-type="image/png" src="../../media/Picture 8-a60b.png" height="186" width="374"/>
+      </media>
+    </figure>
+    <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-idm505004752">That angle, <m:math display="block"><m:semantics><m:mrow><m:mi>θ</m:mi><m:mi>,</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">θ ,</m:annotation></m:semantics></m:math> turns out to be the same as all of these other angles. If the distance between the two slits is <m:math display="block"><m:semantics><m:mi>d</m:mi><m:annotation encoding="StarMath 5.0">d</m:annotation></m:semantics></m:math>, the extra distance over <m:math display="block"><m:semantics><m:mi>d</m:mi><m:annotation encoding="StarMath 5.0">d</m:annotation></m:semantics></m:math> is going to be <m:math display="block"><m:semantics><m:mi mathvariant="italic">sinθ</m:mi><m:annotation encoding="StarMath 5.0">sinθ</m:annotation></m:semantics></m:math>, so the extra distance is going to be <m:math display="block"><m:semantics><m:mrow><m:mi>d</m:mi><m:mi>∙</m:mi><m:mi>s</m:mi><m:mi mathvariant="italic">inθ</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">d ∙s inθ</m:annotation></m:semantics></m:math>, <m:math display="block"><m:semantics><m:mi>δ</m:mi><m:annotation encoding="StarMath 5.0">δ</m:annotation></m:semantics></m:math> is always extra distance over <m:math display="block"><m:semantics><m:mi>λ</m:mi><m:annotation encoding="StarMath 5.0">λ</m:annotation></m:semantics></m:math>. And so that gives us the <m:math display="block"><m:semantics><m:mi>δ</m:mi><m:annotation encoding="StarMath 5.0">δ</m:annotation></m:semantics></m:math> for the double-slit. </para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="eip-683"><m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>δ</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>d</m:mi>
+                <m:mi>∙</m:mi>
+                <m:mi>sin</m:mi>
+                <m:mi>θ</m:mi>
+              </m:mrow>
+              <m:mi>λ</m:mi>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">δ = {d∙sin θ} over {λ}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><exercise id="eip-604"><label/><title><media id="inote2i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote2p"><para id="inote232">The equation above will be on your equation sheet.</para></problem></exercise>
+    </content>
+</document>

@@ -1,0 +1,73 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col25660</md:content-id>
+  <md:title>Physics 132 Textbook Unit 6</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>55790a5a-d3e7-41d5-9e5d-c091adfe0b73</md:uuid>
+<md:slug>physics-132-textbook-unit-3</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Waves Interacting with Themselves</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68317"/>
+        
+      
+    
+    
+      <col:module document="m68384"/>
+        
+      
+    
+    
+      <col:module document="m68276"/>
+        
+      
+    
+    
+      <col:module document="m68346"/>
+        
+      
+    
+    
+      <col:module document="m68369"/>
+        
+      
+    
+    
+      <col:module document="m68358"/>
+        
+      
+    
+    
+      <col:module document="m68289"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
